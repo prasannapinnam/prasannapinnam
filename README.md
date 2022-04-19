@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-prasanna-pinnam-890952170/)](https://www.linkedin.com/in/lakshmi-prasanna-pinnam-890952170/)
+[![Linkedin Badge](https://img.shields.io/badge/-lakshmiPrasanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-prasanna-pinnam-890952170/)](https://www.linkedin.com/in/lakshmi-prasanna-pinnam-890952170/)
 
 I'm
 Full Stack Solution Architect
